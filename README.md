@@ -43,10 +43,10 @@ weatherApp/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/weatherApp.git
+git clone https://github.com/imskumarj/weatherApp.git
 ```
 
-2. Open `index.html` in your browser.
+2. Open `index.html` in the browser.
 
 > **Note:** You'll need a valid OpenWeatherMap API key if you want to replace or update the existing one.
 
